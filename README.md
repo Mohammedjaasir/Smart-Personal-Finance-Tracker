@@ -7,6 +7,9 @@
 
 **Money Maestro** is a beautifully designed, feature-rich personal finance tracking application that helps you master your finances with intelligent tracking, insightful analytics, and a stunning user interface.
 
+<img width="1919" height="959" alt="Screenshot 2026-02-05 134733" src="https://github.com/user-attachments/assets/73bfa9e0-2744-4a27-b0f0-3692a4502700" />
+
+
 ## ✨ Features
 
 ### 🎨 **Premium User Experience**
